@@ -1,2 +1,2 @@
 # lncRNApipe
-lncRNApipe: A Bioinformatics Pipeline for Long Non-Coding RNA Identification
+lncRNApipe:A Bioinformatics Pipeline for Long Non-Coding RNA Identification
